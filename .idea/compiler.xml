@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="DP-Creational-Factory-01 (41)" />
+        <module name="DP-Creational-Factory-01 (21)" />
+        <module name="DP-Creational-Factory-01 (65)" />
+        <module name="DP-Creational-Factory-01 (53)" />
+        <module name="singltonProject" />
+        <module name="DP-Creational-Factory-01 (45)" />
+        <module name="DP-Creational-Factory-01 (33)" />
+        <module name="DP-Creational-Factory-01 (25)" />
+        <module name="DP-Creational-Factory-01 (13)" />
+        <module name="DP-Creational-Factory-01 (57)" />
+        <module name="DP-Creational-Factory-01 (49)" />
+        <module name="DP-Creational-Factory-01 (37)" />
+        <module name="DP-Creational-Factory-01 (29)" />
+        <module name="DP-Creational-Factory-01 (17)" />
+        <module name="DP-Creational-Factory-01 (6)" />
+        <module name="DP-Creational-Factory-01 (2)" />
+        <module name="DP-Creational-Factory-01 (60)" />
+        <module name="DP-Creational-Factory-01 (52)" />
+        <module name="DP-Creational-Factory-01 (40)" />
+        <module name="DP-Creational-Factory-01 (32)" />
+        <module name="DP-Creational-Factory-01 (20)" />
+        <module name="DP-Creational-Factory-01 (64)" />
+        <module name="DP-Creational-Factory-01 (12)" />
+        <module name="DP-Creational-Factory-01 (56)" />
+        <module name="DP-Creational-Factory-01 (8)" />
+        <module name="DP-Creational-Factory-01 (44)" />
+        <module name="DP-Creational-Factory-01 (36)" />
+        <module name="DP-Creational-Factory-01 (24)" />
+        <module name="DP-Creational-Factory-01 (68)" />
+        <module name="DP-Creational-Factory-01 (16)" />
+        <module name="DP-Creational-Factory-01 (48)" />
+        <module name="DP-Creational-Factory-01 (28)" />
+        <module name="DP-Creational-Factory-01 (7)" />
+        <module name="DP-Creational-Factory-01 (3)" />
+        <module name="DP-Creational-Factory-01 (63)" />
+        <module name="DP-Creational-Factory-01 (51)" />
+        <module name="DP-Creational-Factory-01 (43)" />
+        <module name="DP-Creational-Factory-01 (31)" />
+        <module name="DP-Creational-Factory-01 (9)" />
+        <module name="DP-Creational-Factory-01 (23)" />
+        <module name="DP-Creational-Factory-01 (67)" />
+        <module name="DP-Creational-Factory-01 (11)" />
+        <module name="DP-Creational-Factory-01 (55)" />
+        <module name="DP-Creational-Factory-01 (47)" />
+        <module name="DP-Creational-Factory-01 (35)" />
+        <module name="DP-Creational-Factory-01 (27)" />
+        <module name="DP-Creational-Factory-01 (15)" />
+        <module name="DP-Creational-Factory-01 (59)" />
+        <module name="DP-Creational-Factory-01 (39)" />
+        <module name="DP-Creational-Factory-01 (19)" />
+        <module name="DP-Creational-Factory-01 (4)" />
+        <module name="DP-Creational-Factory-01" />
+        <module name="DP-Creational-Factory-01 (50)" />
+        <module name="DP-Creational-Factory-01 (30)" />
+        <module name="DP-Creational-Factory-01 (62)" />
+        <module name="DP-Creational-Factory-01 (10)" />
+        <module name="DP-Creational-Factory-01 (54)" />
+        <module name="DP-Creational-Factory-01 (42)" />
+        <module name="DP-Creational-Factory-01 (34)" />
+        <module name="DP-Creational-Factory-01 (22)" />
+        <module name="DP-Creational-Factory-01 (66)" />
+        <module name="DP-Creational-Factory-01 (14)" />
+        <module name="DP-Creational-Factory-01 (58)" />
+        <module name="DP-Creational-Factory-01 (46)" />
+        <module name="DP-Creational-Factory-01 (38)" />
+        <module name="DP-Creational-Factory-01 (26)" />
+        <module name="DP-Creational-Factory-01 (18)" />
+        <module name="DP-Creational-Factory-01 (5)" />
+        <module name="DP-Creational-Factory-01 (1)" />
+        <module name="DP-Creational-Factory-01 (61)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DP-Creational-Factory-01" target="20" />
+      <module name="DP-Creational-Factory-01 (1)" target="20" />
+      <module name="DP-Creational-Factory-01 (10)" target="20" />
+      <module name="DP-Creational-Factory-01 (11)" target="20" />
+      <module name="DP-Creational-Factory-01 (12)" target="20" />
+      <module name="DP-Creational-Factory-01 (13)" target="20" />
+      <module name="DP-Creational-Factory-01 (14)" target="20" />
+      <module name="DP-Creational-Factory-01 (15)" target="20" />
+      <module name="DP-Creational-Factory-01 (16)" target="20" />
+      <module name="DP-Creational-Factory-01 (17)" target="20" />
+      <module name="DP-Creational-Factory-01 (18)" target="20" />
+      <module name="DP-Creational-Factory-01 (19)" target="20" />
+      <module name="DP-Creational-Factory-01 (2)" target="20" />
+      <module name="DP-Creational-Factory-01 (20)" target="20" />
+      <module name="DP-Creational-Factory-01 (21)" target="20" />
+      <module name="DP-Creational-Factory-01 (22)" target="20" />
+      <module name="DP-Creational-Factory-01 (23)" target="20" />
+      <module name="DP-Creational-Factory-01 (24)" target="20" />
+      <module name="DP-Creational-Factory-01 (25)" target="20" />
+      <module name="DP-Creational-Factory-01 (26)" target="20" />
+      <module name="DP-Creational-Factory-01 (27)" target="20" />
+      <module name="DP-Creational-Factory-01 (28)" target="20" />
+      <module name="DP-Creational-Factory-01 (29)" target="20" />
+      <module name="DP-Creational-Factory-01 (3)" target="20" />
+      <module name="DP-Creational-Factory-01 (30)" target="20" />
+      <module name="DP-Creational-Factory-01 (31)" target="20" />
+      <module name="DP-Creational-Factory-01 (32)" target="20" />
+      <module name="DP-Creational-Factory-01 (33)" target="20" />
+      <module name="DP-Creational-Factory-01 (34)" target="20" />
+      <module name="DP-Creational-Factory-01 (35)" target="20" />
+      <module name="DP-Creational-Factory-01 (36)" target="20" />
+      <module name="DP-Creational-Factory-01 (37)" target="20" />
+      <module name="DP-Creational-Factory-01 (38)" target="20" />
+      <module name="DP-Creational-Factory-01 (39)" target="20" />
+      <module name="DP-Creational-Factory-01 (4)" target="20" />
+      <module name="DP-Creational-Factory-01 (40)" target="20" />
+      <module name="DP-Creational-Factory-01 (41)" target="20" />
+      <module name="DP-Creational-Factory-01 (42)" target="20" />
+      <module name="DP-Creational-Factory-01 (43)" target="20" />
+      <module name="DP-Creational-Factory-01 (44)" target="20" />
+      <module name="DP-Creational-Factory-01 (45)" target="20" />
+      <module name="DP-Creational-Factory-01 (46)" target="20" />
+      <module name="DP-Creational-Factory-01 (47)" target="20" />
+      <module name="DP-Creational-Factory-01 (48)" target="20" />
+      <module name="DP-Creational-Factory-01 (49)" target="20" />
+      <module name="DP-Creational-Factory-01 (5)" target="20" />
+      <module name="DP-Creational-Factory-01 (50)" target="20" />
+      <module name="DP-Creational-Factory-01 (51)" target="20" />
+      <module name="DP-Creational-Factory-01 (52)" target="20" />
+      <module name="DP-Creational-Factory-01 (53)" target="20" />
+      <module name="DP-Creational-Factory-01 (54)" target="20" />
+      <module name="DP-Creational-Factory-01 (55)" target="20" />
+      <module name="DP-Creational-Factory-01 (56)" target="20" />
+      <module name="DP-Creational-Factory-01 (57)" target="20" />
+      <module name="DP-Creational-Factory-01 (58)" target="20" />
+      <module name="DP-Creational-Factory-01 (59)" target="20" />
+      <module name="DP-Creational-Factory-01 (6)" target="20" />
+      <module name="DP-Creational-Factory-01 (60)" target="20" />
+      <module name="DP-Creational-Factory-01 (61)" target="20" />
+      <module name="DP-Creational-Factory-01 (62)" target="20" />
+      <module name="DP-Creational-Factory-01 (63)" target="20" />
+      <module name="DP-Creational-Factory-01 (64)" target="20" />
+      <module name="DP-Creational-Factory-01 (65)" target="20" />
+      <module name="DP-Creational-Factory-01 (66)" target="20" />
+      <module name="DP-Creational-Factory-01 (67)" target="20" />
+      <module name="DP-Creational-Factory-01 (68)" target="20" />
+      <module name="DP-Creational-Factory-01 (7)" target="20" />
+      <module name="DP-Creational-Factory-01 (8)" target="20" />
+      <module name="DP-Creational-Factory-01 (9)" target="20" />
+      <module name="singltonProject" target="20" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

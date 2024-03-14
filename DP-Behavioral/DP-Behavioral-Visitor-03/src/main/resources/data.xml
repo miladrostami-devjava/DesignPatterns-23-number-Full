@@ -1,0 +1,14 @@
+<UserList>
+    <User>
+        <firstName>Milad</firstName>
+        <LastName>rostami</LastName>
+        <nationalCode>2233432334</nationalCode>
+        <birthDate>1995-01-05</birthDate>
+    </User>
+    <User>
+        <firstName>Ali</firstName>
+        <LastName>rostami</LastName>
+        <nationalCode>4323567889</nationalCode>
+        <birthDate>1992-02-12</birthDate>
+    </User>
+</UserList>

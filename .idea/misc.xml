@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-State-01/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-State-02/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-State-03/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-Command-01/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-Command-02/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-Command-03/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-Memento-01/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-Memento-02/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-Memento-03/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-Visitor-01/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-Visitor-02/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-Visitor-03/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-Iterator-01/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-Iterator-02/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-Iterator-03/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-Mediator-01/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-Mediator-02/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-Mediator-03/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-Observer-01/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-Observer-02/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-Observer-03/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-Strategy-01/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-Strategy-02/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-Strategy-03/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-Interpreter-01/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-Interpreter-02/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-Interpreter-03/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-TemplateMethod-01/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-TemplateMethod-02/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-TemplateMethod-03/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-ChainOfResonsibility-01/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-ChainOfResonsibility-02/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Behavioral/DP-Behavioral-ChainOfResonsibility-03/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Creational/singltonProject/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Creational/DP-Creational-Builder-01/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Creational/DP-Creational-Builder-02/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Creational/DP-Creational-Builder-03/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Creational/DP-Creational-Factory-01/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Creational/DP-Creational-Factory-02/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Creational/DP-Creational-Factory-03/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Creational/DP-Creational-Prototype-01/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Creational/DP-Creational-Prototype-02/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Creational/DP-Creational-Prototype-03/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Creational/DP-Creational-Singleton-01/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Creational/DP-Creational-Singleton-02/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Creational/DP-Creational-Singleton-03/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Creational/DP-Creational-AbstractFactory-01/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Creational/DP-Creational-AbstractFactory-02/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Creational/DP-Creational-AbstractFactory-03/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Structural/DP-Structural-Proxy-01/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Structural/DP-Structural-Proxy-02/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Structural/DP-Structural-Proxy-03/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Structural/DP-Structural-Bridge-01/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Structural/DP-Structural-Bridge-02/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Structural/DP-Structural-Bridge-03/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Structural/DP-Structural-Facade-01/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Structural/DP-Structural-Facade-02/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Structural/DP-Structural-Facade-03/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Structural/DP-Structural-Adapter-01/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Structural/DP-Structural-Adapter-02/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Structural/DP-Structural-Adapter-03/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Structural/DP-Structural-Composite-01/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Structural/DP-Structural-Composite-02/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Structural/DP-Structural-Composite-03/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Structural/DP-Structural-Decorator-01/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Structural/DP-Structural-Decorator-02/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Structural/DP-Structural-Decorator-03/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Structural/DP-Structural-Flyweight-01/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Structural/DP-Structural-Flyweight-02/pom.xml" />
+        <option value="$PROJECT_DIR$/DP-Structural/DP-Structural-Flyweight-03/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="21" project-jdk-type="JavaSDK" />
+</project>
